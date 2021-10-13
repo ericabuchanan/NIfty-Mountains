@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1619714978 source:c:\users\erica\documents\buchanan\buchanan_niftymountains\main.cpp
+	<fstream>
+	<iostream>
+	<string.h>
+	<apmatrix.h>
+	<vector>
+
+1620264398 source:c:\users\erica\documents\github\niftymountains-erica-buchanan\buchanan_niftymountains\main.cpp
+	"functions.h"
+
+1620264345 source:c:\users\erica\documents\github\niftymountains-erica-buchanan\buchanan_niftymountains\functions.cpp
+	"functions.h"
+
+1620261129 c:\users\erica\documents\github\niftymountains-erica-buchanan\buchanan_niftymountains\functions.h
+	<fstream>
+	<iostream>
+	<string.h>
+	<apmatrix.h>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cmath>
+	<time.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+
+1620262737 source:c:\users\erica\documents\github\niftymountains-erica-buchanan\buchanan_niftymountains\advancedfunctions.cpp
+	"functions.h"
+
